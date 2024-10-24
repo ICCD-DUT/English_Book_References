@@ -1,12 +1,11 @@
 
-# 3D Scene Modeling and Robotics Interaction - Related Resources(Chapter 1)
+# 3D Scene Modeling and Robotics Interaction - Related Resources(Chapter 5)
 **************************
 
 
-## Introduce
+## Introduction
 **************************
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent service robots are identified as a frontier technology to be developed over the next 15 years in the "National Medium and Long-term Science and Technology Development Plan (2006-2020)." In 2012, China formulated the "Twelfth Five-Year Plan for the Development of Service Robot Technology" to support the growth of the robot industry. The application scenarios for robots in real life are becoming increasingly diverse, with autonomous grasping being an essential function for robots to interact with the real world. Whether for industrial robots on assembly lines or service robots in stores and homes, autonomous grasping is crucial for object interaction.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This chapter focuses on the key technology of autonomous robot grasping. It begins by analyzing traditional grasp detection methods based on analytical and empirical approaches, highlighting their limitations in real-world applications. With advancements in deep learning and computer vision, deep learning-based grasp pose detection algorithms have become widely adopted. These algorithms leverage RGB-D sensor data, enhancing generalization for grasping unknown objects. While these methods perform well in terms of accuracy and adaptability in practical scenarios, they still face challenges related to real-time performance and the need for large-scale annotated datasets. The chapter concludes by presenting technical case studies that demonstrate the comparative performance of grasping algorithms in real-world applications.
 
 ## Technical Case Source Code
 **************************
