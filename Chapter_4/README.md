@@ -13,6 +13,6 @@
 ### 4.3.1 Case One: Camera Relocalization Based on Feature Database Matching
 Related code: https://github.com/linharrrrrt/Feature-Based-Relocal
 
-### 4.3.2 Case Two: Deep Learning Based on Camera Relocalization
+### 4.3.2 Case Two: Deep Learning Based Camera Relocalization
 Related code: https://github.com/linharrrrrt/DL-Relocal
 
